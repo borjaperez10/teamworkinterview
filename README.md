@@ -19,6 +19,7 @@ git clone https://github.com/borjaperez10/teamworkinterview.git
 
 In order to run, use:
 ```
+cd teamworkinterview
 go run main.go
 
 ```
